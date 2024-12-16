@@ -15,6 +15,4 @@ These are for applying [from] commands to the primary file and loading subroutin
 
 If you have any suggestions/advice, please go ahead. I am very new to Python.
 
- ∧,,,∧
 (  ̳•·• ̳)
-/  づ♡ 
